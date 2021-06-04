@@ -8,5 +8,13 @@ Este dataset é de livre acesso, disponibilizado oficialmente pelo IBGE em seu s
 ## Propósito
 Este é um estudo pessoal, para estudos de técnicas e ferramentas de tecnologia da informação (TI) com o intuito de aprimoramento e testes. As linhas de análises não tem nenhum propósito social ou político. O dataset e o tema foram apresentados no Bootcamp da Alura, realizado no último trimestre de 2020. Alguns cases foram propostos e outros foram evoluções do aprendizado, sendo registrados aqui em períodos distintos.
 
+## Análise do dataset
+* 16556 instâncias
+* 181 atributos
+* Não foram observados NaN
+* 171 atributos Int64
+* 10 atributos Float64
+* 
+
 
 
